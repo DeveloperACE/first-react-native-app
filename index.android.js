@@ -15,4 +15,4 @@ const firstPracticeApp = () => {
     </Provider>
 }
 
-AppRegistry.registerComponent('firstPracticeApp', () => firstPracticeApp);
+AppRegistry.registerComponent('firstPracticeApp', () => firstPracticeApp());
